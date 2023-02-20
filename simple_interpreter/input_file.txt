@@ -1,0 +1,12 @@
+x = 1 + 2
+y = x - x 
+z = y * 3 
+x = x /  3
+f = True > False 
+g = z < y 
+d = x >= x 
+e = f == g 
+k = 1 != 2
+y = False and True 
+l = True or True
+m = 4 <= 1
